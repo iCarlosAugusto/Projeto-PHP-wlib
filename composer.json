@@ -1,0 +1,16 @@
+{
+    "name": "php/autoload",
+    "description": "Projeto Teste",
+    "authors": [
+        {
+            "name": "Carlos",
+            "email": "carlos@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Source\\": "source/"
+        }
+    },
+    "require": {}
+}
